@@ -27,7 +27,7 @@ There are two optional arguments: the master password of your Bitwarden vault (i
 ### Example: 
 ```
 python bitpwned.py example@example.com -p myverystrongpassword -o pwnedpasswords.txt
-python bipwned.py example@example.com -d -o suplicatepasswords.txt
+python bipwned.py example@example.com -d -o duplicatepasswords.txt
 ```
 ### License
 This script is released under GNU General Public License v3.0 license and it is not in any way affiliated or endorsed by Bitwarden or I Have Been Pwned.
